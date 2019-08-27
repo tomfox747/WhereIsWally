@@ -1,0 +1,20 @@
+﻿  main.cpp
+c:\users\thoma\source\repos\oop_assignment_complete\oop_assignment_complete\main.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\thoma\source\repos\oop_assignment_complete\oop_assignment_complete\main.cpp(146): warning C4018: '>': signed/unsigned mismatch
+c:\users\thoma\source\repos\oop_assignment_complete\oop_assignment_complete\main.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\thoma\source\repos\oop_assignment_complete\oop_assignment_complete\main.cpp(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\thoma\source\repos\oop_assignment_complete\oop_assignment_complete\main.cpp(174): warning C4018: '<': signed/unsigned mismatch
+  matrixFunctions.cpp
+c:\users\thoma\source\repos\oop_assignment_complete\oop_assignment_complete\matrixfunctions.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\thoma\source\repos\oop_assignment_complete\oop_assignment_complete\matrixfunctions.cpp(89): warning C4018: '<': signed/unsigned mismatch
+  nBest.cpp
+  outputFunctions.cpp
+c:\users\thoma\source\repos\oop_assignment_complete\oop_assignment_complete\outputfunctions.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\thoma\source\repos\oop_assignment_complete\oop_assignment_complete\outputfunctions.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\thoma\source\repos\oop_assignment_complete\oop_assignment_complete\outputfunctions.cpp(84): warning C4101: 'j': unreferenced local variable
+c:\users\thoma\source\repos\oop_assignment_complete\oop_assignment_complete\outputfunctions.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\thoma\source\repos\oop_assignment_complete\oop_assignment_complete\outputfunctions.cpp(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\thoma\source\repos\oop_assignment_complete\oop_assignment_complete\outputfunctions.cpp(129): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  LINK : C:\Users\thoma\source\repos\OOP_assignment_complete\Debug\OOP_assignment_complete.exe not found or not built by the last incremental link; performing full link
+  OOP_assignment_complete.vcxproj -> C:\Users\thoma\source\repos\OOP_assignment_complete\Debug\OOP_assignment_complete.exe
